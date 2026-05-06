@@ -1,2 +1,44 @@
-# MS-ELEVATE-AZURE-EDUNET-PROJECT
-The Personalized Doubt Solver is an AI-based system that extracts text from uploaded files, explains concepts based on difficulty, generates MCQ quizzes, evaluates answers, and displays scores with a visual dashboard, providing an interactive and personalized learning experience.
+# MS Elevate Project
+
+An AI-powered Streamlit web application using OpenRouter and Hugging Face APIs.
+
+## Features
+- AI-powered responses
+- Streamlit frontend
+- API integration
+- Interactive UI
+
+## Tech Stack
+- Python
+- Streamlit
+- OpenRouter API
+- Hugging Face API
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run the Project
+
+```bash
+streamlit run app.py
+```
+
+## Environment Variables
+
+Create a `.env` file and add:
+
+```env
+OPENROUTER_API_KEY=your_key_here
+HUGGINGFACE_API_KEY=your_key_here
+```
+
+## Live Demo
+
+Streamlit deployment link here soon.
+
+## Author
+
+Kazi Nafis Nawaz
