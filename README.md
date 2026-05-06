@@ -37,7 +37,7 @@ HUGGINGFACE_API_KEY=your_key_here
 
 ## Live Demo
 
-Streamlit deployment link here soon.
+[Streamlit deployment link here soon.](https://ms-elevate-azure-edunet-project-gxpqnxtkvnuamvxfwthecd.streamlit.app/)
 
 ## Author
 
